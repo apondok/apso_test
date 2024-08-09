@@ -1,0 +1,5 @@
+/* Custom styles for the property details page */
+.property-carousel img {
+    max-width: 100%;
+    height: auto;
+}
